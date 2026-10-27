@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Sadeeq 👋
 
-<!--
-**sadeeqfxx/Sadeeqfxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Aspiring AI Engineer | 🌐 Full-Stack Developer | 💻 Software Engineering Student 🇳🇬
 
-Here are some ideas to get you started:
+I'm a Software Engineering student from Nigeria passionate about building useful software, exploring artificial intelligence, and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Working Toward
+
+- 🤖 Exploring AI and AI-powered applications
+- 🌐 Building full-stack web applications
+- 💻 Improving my software engineering skills
+- 🧠 Strengthening my problem-solving abilities
+- 🤝 Learning through practical projects and open-source collaboration
+
+🛠️ Technologies I'm Exploring
+
+- Programming: Java, JavaScript, Python
+- Web Development: HTML, CSS
+- Tools: Git and GitHub
+- Interests: Artificial Intelligence, Software Engineering, and Web Applications
+
+🎯 My Goal
+
+To become a skilled AI and Full-Stack Engineer who builds reliable, intelligent applications that solve meaningful problems.
+
+«Learn deeply. Build consistently. Improve every day.»
+
+🤝 Connect With Me
+
+- GitHub: "@sadeeqfxx" (https://github.com/sadeeqfxx)
+
+⭐ Thanks for visiting my profile!
